@@ -1,6 +1,4 @@
-﻿using System.Windows;
-
-namespace Ameba
+﻿namespace Ameba
 {
     /// <summary>
     /// MainWindow.xaml の相互作用ロジック
